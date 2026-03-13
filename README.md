@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**ardaozkaranfil/ardaozkaranfil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Arda 👋
+Software Engineering student at Izmir University of Economics. I started with Java — OOP, data structures, the usual fundamentals. Currently picking up Python, C++ and SQL through coursework.
+---
+## 🔧 Currently learning
+- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) - SE226  
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) - SE226
+- ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) - CE223  
+---
+## 💻 Tech Stack (Foundation)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+---
+## 📂 Projects
+- [Java OOP Portfolio](https://github.com/ardaozkaranfil/Java-OOP-Portfolio) — OOP, data structures, algorithms, file I/O
+---
+## 📫 Contact
+- arda.ozkaranfil0@gmail.com
+- LinkedIn: [ardaozkaranfil](https://linkedin.com/in/ardaozkaranfil) bu nasıl
