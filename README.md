@@ -14,4 +14,4 @@ Software Engineering student at Izmir University of Economics. I started with Ja
 ---
 ## 📫 Contact
 - arda.ozkaranfil0@gmail.com
-- LinkedIn: [ardaozkaranfil](https://linkedin.com/in/ardaozkaranfil) bu nasıl
+- LinkedIn: [ardaozkaranfil](https://linkedin.com/in/ardaozkaranfil) 
