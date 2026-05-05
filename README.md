@@ -10,7 +10,8 @@ Software Engineering student at Izmir University of Economics. I started with Ja
 - Java
 ---
 ## 📂 Projects
-- [Java OOP Portfolio](https://github.com/ardaozkaranfil/Java-OOP-Portfolio) — OOP, data structures, algorithms, file I/O
+- [Java OOP Portfolio](https://github.com/ardaozkaranfil/Java-OOP-Portfolio) - Core OOP concepts, abstract classes, generics, file I/O
+- [Java DSA Portfolio](https://github.com/ardaozkaranfil/Java-DSA-Portfolio) - Core data structures, sorting/searching algorithms, optimization
 ---
 ## 📫 Contact
 - arda.ozkaranfil0@gmail.com
