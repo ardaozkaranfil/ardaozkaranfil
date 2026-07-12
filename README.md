@@ -1,5 +1,5 @@
 # Hi, I'm Arda 👋
-Software Engineering student at Izmir University of Economics. I started with Java — OOP, data structures, the usual fundamentals. Currently picking up Python, C++ and SQL through coursework.
+Software Engineering student at Izmir University of Economics. Started with Java, then completed coursework in C++, Python and SQL. Right now I'm building a scheduling and appointment system for a cram school using Spring Boot and MySQL.
 ---
 ## 💻 Tech Stack (Foundation)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -11,7 +11,6 @@ Software Engineering student at Izmir University of Economics. I started with Ja
 - [Tutor Schedule App](https://github.com/ardaozkaranfil/tutor-schedule-app) - Teacher scheduling and student appointment management system for a cram school, built with Spring Boot, Thymeleaf and MySQL
 - [Java DSA Portfolio](https://github.com/ardaozkaranfil/Java-DSA-Portfolio) - Core data structures, sorting/searching algorithms, optimization
 - [Java OOP Portfolio](https://github.com/ardaozkaranfil/Java-OOP-Portfolio) - Core OOP concepts, abstract classes, generics, file I/O
-
 ---
 ## 📫 Contact
 - arda.ozkaranfil0@gmail.com
