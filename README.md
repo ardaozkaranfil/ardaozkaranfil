@@ -1,17 +1,50 @@
 # Hi, I'm Arda 👋
-Software Engineering student at Izmir University of Economics. Started with Java, then completed coursework in C++, Python and SQL. Right now I'm building a scheduling and appointment system for a cram school using Spring Boot and MySQL.
----
-## 💻 Tech Stack (Foundation)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
----
-## 📂 Projects
-- [Tutor Schedule App](https://github.com/ardaozkaranfil/tutor-schedule-app) - Teacher scheduling and student appointment management system for a cram school, built with Spring Boot, Thymeleaf and MySQL
-- [Java DSA Portfolio](https://github.com/ardaozkaranfil/Java-DSA-Portfolio) - Core data structures, sorting/searching algorithms, optimization
-- [Java OOP Portfolio](https://github.com/ardaozkaranfil/Java-OOP-Portfolio) - Core OOP concepts, abstract classes, generics, file I/O
----
-## 📫 Contact
+
+Third-year Software Engineering student at Izmir University of Economics, open to software engineering internships.
+
+Most of my work is in Java. The project I care about most is a scheduling system I built for a tutoring center over a summer — it replaced their paper schedule and is now in daily use at two of them.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## Projects
+
+### [Tutor Schedule App](https://github.com/ardaozkaranfil/tutor-schedule-app)
+
+`Java 21` `Spring Boot` `Spring Data JPA` `MySQL` `Thymeleaf` `JavaScript` `Docker` `JUnit 5`
+
+A scheduling and appointment system for tutoring centers. The guidance counselor manages teacher availability, books one-on-one student sessions with conflict prevention, imports student lists from Excel, and exports printable weekly schedules.
+
+Shipped and in daily use at two centers. It installs as a Docker stack behind a desktop shortcut, backs the database up automatically, and ships as tagged releases with a changelog. Around 84% instruction coverage across the service and controller layers, with unit, web-layer and repository tests running on every push through GitHub Actions.
+
+### [Java DSA Portfolio](https://github.com/ardaozkaranfil/Java-DSA-Portfolio)
+
+`Java`
+
+Data structures and algorithms implemented from scratch, each one standalone and runnable: AVL tree with all four rotation cases, BST, circular doubly linked list, open-addressing hash table with quadratic probing and dynamic rehashing, min-heap, priority queue, sorting, and two stacks sharing a single array.
+
+### [Java OOP Portfolio](https://github.com/ardaozkaranfil/Java-OOP-Portfolio)
+
+`Java` 
+
+Object-oriented design exercises: a spell checker built on Levenshtein distance, a generic inventory system, custom exception hierarchies, binary and text file I/O, interfaces and abstract classes.
+
+## Tools
+
+**Languages:** Java · Python · SQL · JavaScript 
+
+**Web:** Spring Boot · Thymeleaf · HTML/CSS
+
+**Testing:** JUnit 5 · Mockito · AssertJ · MockMvc · Postman
+
+**Databases:** MySQL · Spring Data JPA 
+
+**Tooling:** Docker · GitHub Actions
+
+## Contact
+
 - arda.ozkaranfil0@gmail.com
-- LinkedIn: [ardaozkaranfil](https://linkedin.com/in/ardaozkaranfil) 
+- [linkedin.com/in/ardaozkaranfil](https://linkedin.com/in/ardaozkaranfil)
