@@ -4,11 +4,13 @@ Third-year Software Engineering student at Izmir University of Economics, open t
 
 Most of my work is in Java. The project I care about most is a scheduling system I built for a tutoring center over a summer — it replaced their paper schedule and is now in daily use at two of them.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+  <img src="https://cdn.simpleicons.org/springboot" width="48" height="48" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+</p>
 
 ## Projects
 
@@ -32,17 +34,19 @@ Data structures and algorithms implemented from scratch, each one standalone and
 
 Object-oriented design exercises: a spell checker built on Levenshtein distance, a generic inventory system, custom exception hierarchies, binary and text file I/O, interfaces and abstract classes.
 
-## Tools
+## Skills
 
-**Languages:** Java · Python · SQL · JavaScript 
+**Programming Languages:** Java, Python, JavaScript, SQL
 
-**Web:** Spring Boot · Thymeleaf · HTML/CSS
+**Backend:** Spring Boot, Spring MVC, Spring Data JPA / Hibernate, REST APIs
 
-**Testing:** JUnit 5 · Mockito · AssertJ · MockMvc · Postman
+**Databases:** MySQL
 
-**Databases:** MySQL · Spring Data JPA 
+**Frontend:** HTML, CSS, Thymeleaf
 
-**Tooling:** Docker · GitHub Actions
+**Testing:** JUnit 5, Mockito, MockMvc / Spring Boot Test slices
+
+**Tools:** Git, GitHub Actions (CI), Maven, Docker, Docker Compose, Postman
 
 ## Contact
 
