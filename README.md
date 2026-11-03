@@ -34,20 +34,6 @@ Data structures and algorithms implemented from scratch, each one standalone and
 
 Object-oriented design exercises: a spell checker built on Levenshtein distance, a generic inventory system, custom exception hierarchies, binary and text file I/O, interfaces and abstract classes.
 
-## Skills
-
-**Programming Languages:** Java, Python, JavaScript, SQL
-
-**Backend:** Spring Boot, Spring MVC, Spring Data JPA / Hibernate, REST APIs
-
-**Databases:** MySQL
-
-**Frontend:** HTML, CSS, Thymeleaf
-
-**Testing:** JUnit 5, Mockito, MockMvc / Spring Boot Test slices
-
-**Tools:** Git, GitHub Actions (CI), Maven, Docker, Docker Compose, Postman
-
 ## Contact
 
 - arda.ozkaranfil0@gmail.com
